@@ -1,3 +1,10 @@
+## Structure
+There are four jupyter notebooks here.
+HAN.ipynb is using Hierarchical-attention-networks to train the corpus.
+data_process and baselines.ipynb has basic handle on corpuses and run some regression and classification algorithms.
+LSTM with torch embeddings.ipynb utilized pytorch embedding to train the corpus in LSTM.
+LSTM with word vectors.ipynb utilized average word vectors to train the corpus in LSTM.
+
 ## Project Categories
 1. Nature Language Processing
 2. Computer Vision
